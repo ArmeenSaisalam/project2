@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page1</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="pg.css">
+
+
+
+    
+</head>    
+<body>
+
+    
+    <ul class="nav nav-fill nav-pills navbar-dark bg-dark">
+        <li class="nav-item">
+        <a href="bootstrap5.html" class="nav-link active" aria-current="page" >bootstrap</a>
+        </li>
+        <li class="nav-item">
+            <a href="one.html" class="nav-link ">one</a>
+        </li>
+        <li class="nav-item">
+            <a href="https://www.youtube.com/" class="nav-link ">youtube</a>
+        </li>
+        <li class="nav-item">
+            <a href="https://www.w3schools.com/html/default.asp" class="nav-link disabled" aria-disabled="true">w3schools</a>
+        </li>
+    </ul>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://www.openlogic.com/sites/default/files/styles/social_preview_image/public/image/2020-07/image-blog-sql-database.jpg?itok=fM0y3SPe" 
+                width="100%"    alt="" >
+                <div class="card-body">
+                    <h5 class="card-title">หัวข้อหลัก</h5>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet aut, ipsa possimus rerum porro ab quia quasi quidem at dolor?</p>
+                    <a href="pt.html" class="btn btn-outline-secondary">success</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://www.openlogic.com/sites/default/files/styles/social_preview_image/public/image/2020-07/image-blog-sql-database.jpg?itok=fM0y3SPe" 
+                width="100%"    alt="" >
+                <div class="card-body">
+                    <h5 class="card-title">หัวข้อหลัก</h5>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet aut, ipsa possimus rerum porro ab quia quasi quidem at dolor?</p>
+                    <a href="pt.html" class="btn btn-outline-secondary">success</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://www.openlogic.com/sites/default/files/styles/social_preview_image/public/image/2020-07/image-blog-sql-database.jpg?itok=fM0y3SPe" 
+                width="100%"    alt="" >
+                <div class="card-body">
+                    <h5 class="card-title">หัวข้อหลัก</h5>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet aut, ipsa possimus rerum porro ab quia quasi quidem at dolor?</p>
+                    <a href="pt.html" class="btn btn-outline-secondary">success</a>
+                </div>
+            </div>
+        </div>
+       
+    </div>
+
+
+
+
+    
+</body>
+</html>
